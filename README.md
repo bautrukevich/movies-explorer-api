@@ -1,3 +1,3 @@
 # Movies Explorer API
 
-Backend for Movies Explorer service.
+Бэкэнд для Movies Explorer сервиса. Содержит роуты авторизации и поиска, сохранения фильмов.
